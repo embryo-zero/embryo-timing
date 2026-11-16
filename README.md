@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Timing
+
+**Embryo Timing** is Embryo-Zero's fork of [OpenSTA](https://github.com/parallaxsw/OpenSTA), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # Parallax Static Timing Analyzer
 
 OpenSTA is a gate level static timing verifier. As a stand-alone
